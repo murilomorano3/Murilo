@@ -8,11 +8,11 @@
     align-items: center;
     }
 
-    .container imagem, .container frase{
+    .container_imagem, .container_frase{
     padding: 1em;
     }
 
-    .container titulo, .container frase{
+    .container_titulo, .container_frase{
     display:none;
     }
 
