@@ -16,7 +16,7 @@
     display:none;
     }
 
-    @media screen and (min-widith: 820px) {
+    @media screen and (min-width: 820px) {
         .container__titulo, .container__titulo--negrito {
             font-size: 30px;
         }
@@ -27,7 +27,7 @@
         }
     }
 
-    @media screen and (min-widith: 1024px) {
+    @media screen and (min-width: 1024px) {
         .container__frase {
             padding-left: 5em;
             font-size: 20px;
