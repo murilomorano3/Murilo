@@ -1,9 +1,9 @@
-.cabecalho{
+.container{
     background-color: var(--cor-cabecalho);
     padding: 1em;
     }
 
-    .container{
+    .container_cabecalho{
     display: flex;
     align-items: center;
     }
