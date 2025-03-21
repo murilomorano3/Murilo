@@ -13,6 +13,7 @@
 
     .container_titulo, .container_frase{
     display:flex;
+    align-items: center;
     }
 
     @media screen and (min-width: 820px) {
