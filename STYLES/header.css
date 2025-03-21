@@ -1,20 +1,3 @@
-.cabecalho{
-    background-color: var(--cor-cabecalho);
-    padding: 1em;
-    }
-    .container{
-        display: flex;
-        align-items:center;
-        }    
-
-    .container_imagem, .container_frase{
-    padding: 1em;
-    }
-
-    .container_titulo, .container_frase{
-    display:none;
-    }
-
     @media screen and (min-width: 820px) {
         .container__titulo, .container__titulo--negrito {
             font-size: 30px;
