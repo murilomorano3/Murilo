@@ -18,9 +18,6 @@ header{
 }
 
 .container_imagem, .container_frase{
+    text-align:center;
     padding: 1em;
     }
-
-.container_frase{
-    text-align: center;
-}
