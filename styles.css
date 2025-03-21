@@ -21,6 +21,6 @@ header{
     padding: 1em;
     }
 
-    .container_titulo, .container_frase{
-    display:none;
-    }
+.container_frase{
+    text-align: center;
+}
