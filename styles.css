@@ -12,7 +12,7 @@ header{
     background-color: var(--cor-cabecalho);
 }
 
-.container{
+.container, .container_frase{
     display: flex;
     align-items: center;    
 }
