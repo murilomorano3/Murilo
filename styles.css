@@ -12,9 +12,10 @@ header{
     background-color: var(--cor-cabecalho);
 }
 
-.container, .container_frase{
+.container {
     display: flex;
-    align-items: center;    
+    align-items: center;  
+    padding: 2em;  
 }
 
 .container_imagem, .container_frase{
