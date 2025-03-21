@@ -12,7 +12,7 @@
     }
 
     .container_titulo, .container_frase{
-    display:none;
+    display:flex;
     }
 
     @media screen and (min-width: 820px) {
