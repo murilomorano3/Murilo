@@ -2,18 +2,13 @@
     background-color: var(--cor-cabecalho);
     padding: 1em;
     }
-    .container{
-    display: flex;
-    align-items: center;
-    }
 
     .container_imagem, .container_frase{
     padding: 1em;
     }
 
     .container_titulo, .container_frase{
-    display:flex;
-    align-items: center;
+    display:none;
     }
 
     @media screen and (min-width: 820px) {
