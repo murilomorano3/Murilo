@@ -2,6 +2,11 @@
     background-color: var(--cor-cabecalho);
     padding: 1em;
     }
+    .container{
+        display: flex;
+        /*align-items:center;*/
+        align-content: center;
+        }    
 
     .container_imagem, .container_frase{
     padding: 1em;
