@@ -11,13 +11,3 @@ margin: 0;
 header{
     background-color: var(--cor-cabecalho);
 }
-
-.container {
-    display: flex;
-    align-items: center;  
-    padding: 2em;  
-}
-
-.container_imagem, .container_frase{
-    padding: 2em;
-    }
