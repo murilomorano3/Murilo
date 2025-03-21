@@ -12,16 +12,12 @@ header{
     background-color: var(--cor-cabecalho);
 }
 
-.cabecalho{
-    background-color: var(--cor-cabecalho);
-    padding: 1em;
-    }
-    .container{
-        display: flex;
-        align-items:center;
-        }    
+.container{
+    display: flex;
+    align-items: center;    
+}
 
-    .container_imagem, .container_frase{
+.container_imagem, .container_frase{
     padding: 1em;
     }
 
