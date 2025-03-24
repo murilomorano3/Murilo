@@ -17,5 +17,5 @@ header{
     }
 
     .container_titulo, .container_frase{
-    display:none;
+    display:flex;
     }
