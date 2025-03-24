@@ -18,4 +18,5 @@ header{
 
     .container_titulo, .container_frase{
     display:inline;
+    align-items: center;
     }
