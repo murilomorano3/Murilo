@@ -4,12 +4,12 @@
 --cor-cabecalho: #FFFFFF;
 }
 body{
-background-color: var(--cor-cabecalho);
+background-color: var(--cor-de-fundo);
 margin: 0;
 }
 
 header{
-    background-color: var(--cor--de-fundo);
+    background-color: var(--cor-cabecalho);
 }
 
 .container{
