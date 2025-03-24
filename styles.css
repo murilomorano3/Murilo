@@ -12,6 +12,11 @@ header{
     background-color: var(--cor-cabecalho);
 }
 
+.container{
+    display: flex;
+    align-items: center;
+    }    
+
 .container_imagem, .container_frase{
     padding: 1em;
     }
