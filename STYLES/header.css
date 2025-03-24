@@ -3,7 +3,7 @@
     padding: 1em;
     }
     .container{
-        display: flex;
+        display:inline;
         align-items: center;
         }    
 
