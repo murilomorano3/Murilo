@@ -41,4 +41,5 @@ header{
 .container_p1 {
     background-color: var(--cor-cabecalho);
     padding: 2em;
+    border-radius: 3rem;;
 }
