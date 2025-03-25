@@ -28,5 +28,6 @@ header{
 
 .container_conteudo {
     background-color:var(--cor-cabecalho);
+    text-align: center;
     border-radius: 1,5rem;
 }
