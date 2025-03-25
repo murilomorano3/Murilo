@@ -62,3 +62,8 @@ header{
     text-align: center;
     font-size: 1.2em;
 }
+
+.footer {
+    background-color: var(--cor-cabecalho);
+    text-align: center;
+}
