@@ -16,7 +16,7 @@
 
     .container_produtos {
         font-weight: 400;
-        display:block;
+        display: inline;
     }
 }
 
