@@ -25,6 +25,10 @@
         font-size: 20px;
         display: block;
     }
+    
+    .container_produtos {
+        display:inline;
+    }
 }
 
 body{
