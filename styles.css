@@ -38,6 +38,6 @@ header{
     padding: 2em;
 }
 
-.container_p1, .container_p2, .container_p3 {
+.container_p1 {
     background-color: var(--cor-cabecalho);
 }
