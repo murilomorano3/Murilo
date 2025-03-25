@@ -30,4 +30,5 @@ header{
     background-color:var(--cor-cabecalho);
     text-align: center;
     border-radius: 5rem;
+    font-size: 2em;
 }
