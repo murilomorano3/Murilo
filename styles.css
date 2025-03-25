@@ -5,13 +5,18 @@
 }
 
 @media screen and (min-width: 820px) {
-    .container_titulo, .container_titulo--negrito, .container_conteudo, .container_produtos, .container_p1, .container_p2, .container_p3 {
+    .container_titulo, .container_titulo--negrito {
         font-size: 30px;
     }
 
     .container_titulo {
         font-weight: 400;
         display: block;
+    }
+
+    .container_produtos {
+        font-weight: 400;
+        display:block;
     }
 }
 
