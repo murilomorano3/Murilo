@@ -35,4 +35,5 @@ header{
 
 .container_produtos {
     display: flex;
+    padding: 2em;
 }
