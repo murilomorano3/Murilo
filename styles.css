@@ -45,3 +45,19 @@ header{
     text-align: center;
     font-size: 1.2em;
 }
+
+.container_p2 {
+    background-color: var(--cor-cabecalho);
+    padding: 2em;
+    border-radius: 3rem;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.container_p3 {
+    background-color: var(--cor-cabecalho);
+    padding: 2em;
+    border-radius: 3rem;
+    text-align: center;
+    font-size: 1.2em;
+}
