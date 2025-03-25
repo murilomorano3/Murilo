@@ -3,6 +3,26 @@
 --cor-de-fundo: #5753df;
 --cor-cabecalho: #FFFFFF;
 }
+
+@media screen and (min-width: 820px) {
+    .container_titulo, .container_titulo--negrito, .container_conteudo, .container_produtos, .container_p1, .container_p2, .container_p3 {
+        font-size: 30px;
+    }
+
+    .container_titulo {
+        font-weight: 400;
+        display: block;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .container_frase {
+        padding-left: 5em;
+        font-size: 20px;
+        display: block;
+    }
+}
+
 body{
 background-color: var(--cor-de-fundo);
 margin: 0;
