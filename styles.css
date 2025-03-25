@@ -35,7 +35,8 @@ header{
 
 .container_produtos {
     display: flex;
-    flex-wrap:wrap;
+    position:absolute;
+    width: 100%;
 }
 
 .container_p1 {
