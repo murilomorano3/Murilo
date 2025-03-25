@@ -34,8 +34,7 @@ header{
 }
 
 .container_produtos {
-    display: flex;
-    margin-right: 1.5em;
+    display: inline;
 }
 
 .container_p1 {
