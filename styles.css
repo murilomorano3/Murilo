@@ -63,7 +63,7 @@ header{
     font-size: 1.2em;
 }
 
-.footer {
+.container_final {
     background-color: var(--cor-cabecalho);
     text-align: center;
 }
