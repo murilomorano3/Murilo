@@ -42,5 +42,5 @@ header{
     background-color: var(--cor-cabecalho);
     padding: 2em;
     border-radius: 3rem;
-    align-items: center;
+    text-align: center;
 }
