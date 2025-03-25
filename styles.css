@@ -17,11 +17,15 @@ header{
     align-items: center;
     }    
 
-.container_imagem, .container_frase{
+.container_imagem, .container_frase {
     padding: 2em;
     }
 
-    .container_titulo, .container_frase{
+    .container_titulo, .container_frase {
     display:inline;
     align-items: center;
     }
+
+.container_conteudo {
+    background-color: rgb(230, 230, 230);
+}
