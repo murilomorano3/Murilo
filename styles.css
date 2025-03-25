@@ -27,5 +27,5 @@ header{
     }
 
 .container_conteudo {
-    background-color: rgb(230, 230, 230);
+    background-color:var(--cor-cabecalho);
 }
